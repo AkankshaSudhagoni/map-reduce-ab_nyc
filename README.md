@@ -1,2 +1,2 @@
 # map-reduce-akanksha
-practicing mapping & reduce data.
+practicing mapping & sort data & reduce data
