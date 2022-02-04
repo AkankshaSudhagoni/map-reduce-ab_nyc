@@ -1,0 +1,30 @@
+﻿Bedford-Stuyvesant  	 6.0
+Bushwick  	 1.0
+Chelsea  	 2.0
+Chinatown  	 1.0
+Clinton Hill  	 2.0
+Crown Heights  	 1.0
+East Harlem  	 2.0
+East Village  	 3.0
+Flatbush  	 1.0
+Fort Greene  	 3.0
+Greenpoint  	 3.0
+Harlem  	 5.0
+Hell's Kitchen  	 5.0
+Inwood  	 1.0
+Kensington  	 1.0
+Kips Bay  	 1.0
+Lower East Side  	 1.0
+Midtown  	 1.0
+Murray Hill  	 1.0
+neighbourhood  	 1.0
+Park Slope  	 4.0
+Prospect Heights  	 1.0
+Prospect-Lefferts Gardens  	 1.0
+SoHo  	 1.0
+South Slope  	 1.0
+Upper East Side  	 1.0
+Upper West Side  	 5.0
+West Village  	 1.0
+Williamsburg  	 5.0
+Windsor Terrace  	 1.0
