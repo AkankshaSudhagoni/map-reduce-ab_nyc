@@ -8,4 +8,9 @@ This data file contains all of the information needed to learn more about hosts,
  
  When we look at the reduced data sets , we can clearly notice that they are high rate of hosts attending Bedford-Stuyvesant in the its neighborhoods of Newyork and number of vistors have been incresing over the decade and the chart below also shows how many neighborhoods have been increasing its rate of vistors and what all other neighborhoods in the area of Newyork have been decreasing.
  
+ 
+```
+cat dataset.csv | python mapper.py | sort  | python reducer.py > SUDHAGONIoutput.txt
+```
+ 
  ![Image](/image/Capture.PNG)
