@@ -9,15 +9,15 @@ thisValue = 0.0
 for line in sys.stdin:
   datalist = line.strip().split('\t')
   if (len(datalist) == 2) : 
-    celebrities, count = datalist
+    Kensington, count = datalist
 
-    if celebrities != thisKey:   # we've moved to another key
+    if Kensington != thisKey:   # we've moved to another key
       if thisKey:
         # output the previous key-summaryvalue result
         print(thisKey,'\t',thisValue)
 
       # start over for each new key
-      thisKey = celebrities 
+      thisKey = Kensington 
       thisValue = 0.0
   
     # apply the aggregation function
