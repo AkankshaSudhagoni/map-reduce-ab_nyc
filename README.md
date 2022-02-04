@@ -1,4 +1,6 @@
 # map-reduce-ab_nyc
+
+## Dataset [New York City Airbnb](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data?select=AB_NYC_2019.csv)
 ## Practicing mapping & sort data & reduce data
 
 From 2008, visitors and hosts have utilized Airbnb to broaden their travel options and offer a more distinctive, personalized way of seeing the world. For the year 2019, this information describes the listing activity and analytics in NYC, NY. <br>
